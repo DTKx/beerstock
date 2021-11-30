@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BeerstockApplication {
-//    Initially fixed version
 
     public static void main(String[] args) {
         SpringApplication.run(BeerstockApplication.class, args);
